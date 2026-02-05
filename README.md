@@ -44,7 +44,7 @@ O objetivo desta análise é entender os **principais fatores que influenciam as
 - **Quantidade de linhas:** 6.435  
 - **Quantidade de colunas:** 8  
 
-### Unidade de análise
+-Unidade de análise:
 - Uma **loja** em uma **semana específica**
 
 ---
